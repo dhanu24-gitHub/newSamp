@@ -34,6 +34,7 @@ public class Sample {
 // Using orElse() method:
 		System.out.println(check.orElse(a));                     // ---> Return null if there is null value
 		System.out.println(check.orElse(b));
+		System.out.println("Heyyy");
 		
 
 // Using orEseThrow() method:		
